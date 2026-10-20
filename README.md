@@ -1,73 +1,94 @@
 # DreamScholar
 
-Discover fully funded scholarships around the world — by country, degree level, and field of study.
+**Discover fully funded scholarships around the world — by country, degree level, and field of study.**
 
-DreamScholar is a **frontend-only** Next.js 15 (App Router) application built with TypeScript, Tailwind CSS, and static JSON data. There is no backend, database, or authentication. The project builds to a **fully static export** (plain HTML/CSS/JS, no Node server required)
----
-Live Website: dreamscholars.vercel.app
----
-## 1. Tech Stack
+DreamScholar is a frontend-only scholarship discovery platform built with Next.js 15. It helps students explore scholarship opportunities through country-based browsing, degree categories, and scholarship guides.
 
-- **Next.js 15** (App Router), configured with `output: "export"` for static hosting
-- **React 19**
-- **TypeScript** (strict mode)
-- **Tailwind CSS**
-- **lucide-react** for icons
-- Static JSON data (no API, no database)
+ **Live Website:** [dreamscholars.vercel.app](https://dreamscholars.vercel.app/)
 
----
+##  Features
 
----
+- Explore scholarship opportunities around the world.
+- Browse scholarships by country and degree level.
+- Discover scholarship guides and useful information.
+- Navigate a responsive interface designed for students.
+- Access content powered by static JSON data.
 
-## 2. Getting Started Locally
+##  Tech Stack
 
-### Step 1 — Install dependencies
+- **Next.js 15** — App Router and static site export
+- **React 19** — UI development
+- **TypeScript** — Strict type checking
+- **Tailwind CSS** — Styling and responsive design
+- **Lucide React** — Icons
+- **Static JSON** — Local content data
+
+##  Architecture
+
+DreamScholar is a frontend-only application with no custom backend, database, or authentication system.
+
+The project uses Next.js static export to generate HTML, CSS, and JavaScript files for deployment on static hosting platforms.
+
+##  Getting Started
+
+### Prerequisites
+
+- Node.js compatible with your project's dependencies
+- npm
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/mariakassimm/DreamScholarS.git
+cd DreamScholarS
+```
+
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### Step 2 — Run the development server
+### 3. Start the development server
 
 ```bash
 npm run dev
 ```
 
-Visit **http://localhost:3000** in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Step 3 — Lint the project
+### 4. Run the linter
 
 ```bash
 npm run lint
 ```
 
-### Step 4 — Build the static site
+### 5. Build the static site
 
 ```bash
 npm run build
 ```
 
+The static site is generated in the `out/` directory when the build completes successfully.
 
-### Step 5 — Preview the production build locally
+### 6. Preview the production build
+
+If your project defines a `preview` script in `package.json`, run:
 
 ```bash
 npm run preview
 ```
 
+Otherwise, use a local static file server to preview the generated `out/` directory.
+
+##  Deployment
+
+Visit the live application:
+
+**[https://dreamscholars.vercel.app/](https://dreamscholars.vercel.app/)**
+
+The project is configured for static export, making it suitable for static hosting platforms.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Built to become the best scholarship discovery platform on the internet — one honest, well-organized listing at a time.
+*Built with Next.js, React, TypeScript, and Tailwind CSS.*
