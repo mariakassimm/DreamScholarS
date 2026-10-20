@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "bachelor",
+    "name": "Bachelor",
+    "title": "Bachelor's Degree Scholarships",
+    "description": "Fully funded undergraduate scholarships for high school graduates seeking their first degree abroad, including language preparation and living support.",
+    "averageDuration": "3–4 years"
+  },
+  {
+    "slug": "master",
+    "name": "Master",
+    "title": "Master's Degree Scholarships",
+    "description": "Postgraduate scholarships covering tuition, stipends, and travel for students advancing their careers through specialized master's programs worldwide.",
+    "averageDuration": "1–2 years"
+  },
+  {
+    "slug": "phd",
+    "name": "PhD",
+    "title": "PhD & Doctoral Scholarships",
+    "description": "Research-focused doctoral funding for candidates pursuing original contributions to their field, often including dedicated research grants.",
+    "averageDuration": "3–5 years"
+  }
+]

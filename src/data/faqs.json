@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Is DreamScholar free to use?",
+    "answer": "Yes, DreamScholar is completely free. We list publicly available scholarship opportunities and never charge students to browse or search our directory.",
+    "category": "General"
+  },
+  {
+    "question": "Does DreamScholar guarantee I will win a scholarship?",
+    "answer": "No platform can guarantee an award, since final decisions rest with each scholarship provider. DreamScholar helps you discover relevant opportunities and prepare stronger applications through our guides.",
+    "category": "General"
+  },
+  {
+    "question": "How often is the scholarship data updated?",
+    "answer": "We review and refresh our scholarship listings regularly to reflect new deadlines, funding changes, and newly announced programs.",
+    "category": "General"
+  },
+  {
+    "question": "Can I apply to multiple scholarships at once?",
+    "answer": "Yes, and we generally recommend applying to several scholarships that match your profile to increase your overall chances of success.",
+    "category": "Applications"
+  },
+  {
+    "question": "Do I need IELTS for every scholarship?",
+    "answer": "No. Some scholarships, particularly certain government-funded programs, waive English test requirements or accept alternative proof of proficiency such as a prior English-medium education.",
+    "category": "Applications"
+  },
+  {
+    "question": "What does 'fully funded' mean exactly?",
+    "answer": "It generally means tuition, a living stipend, and travel costs are covered, though the exact combination differs by program. Always check each scholarship's individual funding details page.",
+    "category": "Funding"
+  },
+  {
+    "question": "Can undergraduate students find scholarships here?",
+    "answer": "Yes, DreamScholar lists opportunities across Bachelor's, Master's, and PhD levels, and you can filter listings by degree type.",
+    "category": "Eligibility"
+  },
+  {
+    "question": "How do I contact a scholarship provider directly?",
+    "answer": "Each scholarship detail page includes an official website link where you can find the provider's direct contact information and application portal.",
+    "category": "Applications"
+  },
+  {
+    "question": "Does DreamScholar help with visa applications?",
+    "answer": "We do not process visas directly, but our guides section includes practical articles on preparing supporting documents commonly requested during visa applications.",
+    "category": "General"
+  },
+  {
+    "question": "Is my personal data collected when I use DreamScholar?",
+    "answer": "Version 1 of DreamScholar is a static browsing experience with no accounts, forms, or backend, so no personal application data is collected or stored.",
+    "category": "Privacy"
+  }
+]

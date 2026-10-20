@@ -1,0 +1,986 @@
+[
+  {
+    "id": "s1",
+    "slug": "mext-scholarship-masters-japan",
+    "title": "MEXT Scholarship — Research/Master's Student",
+    "university": "Placement varies by Japanese national university",
+    "country": "Japan",
+    "countrySlug": "japan",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Airfare (round trip)", "covered": true },
+      { "label": "Application/Admission fees", "covered": true }
+    ],
+    "deadlineInfo": "Applications are handled by Japanese embassies/consulates (or by university recommendation) and the window differs by country, typically opening around December–April for arrival the following academic year. There is no single global deadline — check your local Japanese embassy or consulate's website for the exact schedule.",
+    "duration": "Typically 2 years for a Master's, following an initial period of preparatory Japanese language study for some tracks",
+    "ieltsRequired": false,
+    "fieldsOfStudy": ["Engineering", "Social Sciences", "Natural Sciences", "Humanities"],
+    "overview": "The MEXT (Monbukagakusho) Scholarship is the Japanese government's flagship scholarship for international students, funded by the Ministry of Education, Culture, Sports, Science and Technology. It is one of two main routes — embassy recommendation or university recommendation — and covers tuition and living costs at a Japanese national university. Program details (monthly stipend amount, exact eligibility, arrival timing) are set annually and vary somewhat by track and by student category, so treat the figures below as general reference and confirm current terms with the official source.",
+    "benefits": [
+      "Tuition fees at the host Japanese national university are waived",
+      "A monthly stipend is provided (published guidance has cited a range of roughly ¥117,000–¥145,000 depending on degree level and program type — confirm the current rate on the official site)",
+      "Round-trip international airfare between your home country and Japan",
+      "No repayment obligation and no requirement to work for the Japanese government afterward"
+    ],
+    "eligibility": [
+      "Generally open to applicants under 35 years of age (exact limits can differ slightly by scholarship category)",
+      "Must hold, or be on track to complete, a bachelor's degree (for the graduate/research track)",
+      "Must be a national of a country that has diplomatic relations with Japan",
+      "Specific GPA, subject, and health requirements are set each year by MEXT and by the individual embassy — check the current application guidelines"
+    ],
+    "documents": [
+      "MEXT/embassy application form for the current cycle",
+      "Academic transcripts and degree certificates",
+      "Recommendation letter(s) as specified in that year's guidelines",
+      "A study/research plan outline",
+      "Valid passport copy and a completed Certificate of Health"
+    ],
+    "applicationProcess": [
+      "Apply either through the Japanese embassy/consulate in your country (embassy recommendation) or through a partner Japanese university that has a MEXT recommendation quota (university recommendation)",
+      "Follow the screening steps listed in that year's official application guidelines — these differ by embassy and by university, so do not assume a fixed process",
+      "If successful, you receive a placement at a Japanese university and MEXT scholarship confirmation"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "tags": ["Government Funded", "No Application Fee Ever", "Two Application Routes"],
+    "featured": true,
+    "faqs": [
+      { "question": "Do I apply directly to MEXT in Japan?", "answer": "No. All embassy-route applications go through your local Japanese embassy or consulate, not directly to MEXT in Tokyo. University-route applications go through the specific university. Sending documents straight to MEXT is not part of the process." },
+      { "question": "Is there ever an application fee for MEXT?", "answer": "No — the official Study in Japan site and Japanese embassies explicitly warn that there is no application fee, deposit, or charge of any kind for the MEXT Scholarship. Any person or agency asking for payment to 'process' a MEXT application is not affiliated with the Japanese government." }
+    ]
+  },
+  {
+    "id": "s2",
+    "slug": "mext-scholarship-phd-japan",
+    "title": "MEXT Scholarship — Research Student (Doctoral Track)",
+    "university": "Placement varies by Japanese national university",
+    "country": "Japan",
+    "countrySlug": "japan",
+    "degree": ["PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Airfare (round trip)", "covered": true }
+    ],
+    "deadlineInfo": "Handled by embassy or by university recommendation, with country-specific windows generally falling in the same annual cycle as the Master's track. There is no fixed global date — confirm with your local Japanese embassy/consulate or your host university.",
+    "duration": "Program length depends on the research plan and university, commonly around 3 years for the doctoral portion after any preparatory research-student period",
+    "ieltsRequired": false,
+    "fieldsOfStudy": ["Life Sciences", "Engineering", "Environmental Studies", "Any research field with a willing host supervisor"],
+    "overview": "This is the doctoral-track version of the MEXT Scholarship, for students pursuing original research under a Japanese faculty supervisor. As with the Master's track, exact stipend figures, arrival dates, and required documents are published annually by MEXT and by the specific embassy or university, so treat specifics as a general guide rather than fixed fact.",
+    "benefits": [
+      "Tuition waiver for the doctoral program at the host university",
+      "A monthly living stipend (rate is set annually — confirm current figure officially)",
+      "Round-trip airfare to Japan"
+    ],
+    "eligibility": [
+      "Generally requires a completed (or nearly completed) master's degree",
+      "Age limits and academic requirements are set annually by MEXT and can vary by category",
+      "In practice, most successful applicants have already secured informal agreement from a prospective Japanese faculty supervisor before applying, though this is arranged individually rather than through a single fixed procedure"
+    ],
+    "documents": [
+      "Research proposal, in the format requested by the specific embassy or university",
+      "Academic transcripts and degree certificates",
+      "Any reference letters requested in that year's guidelines"
+    ],
+    "applicationProcess": [
+      "Identify a Japanese host institution/supervisor if pursuing the university recommendation route, or apply via your embassy for the embassy route",
+      "Follow the current year's official screening steps published by MEXT and the relevant embassy or university"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "tags": ["PhD Funding", "Two Application Routes", "No Application Fee Ever"],
+    "faqs": [
+      { "question": "Do I need a professor's agreement before applying?", "answer": "For the university recommendation route this is generally expected, though exact requirements are set by each host university and are not identical everywhere. Check directly with your target university and the current MEXT guidelines." }
+    ]
+  },
+  {
+    "id": "s3",
+    "slug": "daad-epos-scholarship-germany",
+    "title": "DAAD EPOS Scholarship (Development-Related Postgraduate Courses)",
+    "university": "Varies — selected German universities offering DAAD-listed development-related courses",
+    "country": "Germany",
+    "countrySlug": "germany",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Travel Allowance", "covered": true },
+      { "label": "Health/Accident/Liability Insurance", "covered": true }
+    ],
+    "deadlineInfo": "Each EPOS-listed course has its own deadline, set by the individual university rather than by DAAD centrally, so there is no single application date for the whole program. Check the official DAAD scholarship database and the specific course page for the exact current deadline.",
+    "duration": "Typically 1–2 years, depending on the specific master's course",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Public Policy", "Engineering", "Economics", "Public Health", "Regional and Urban Planning"],
+    "overview": "DAAD's EPOS (Development-Related Postgraduate Courses) programme funds postgraduate study at German universities in fields connected to sustainable development, for applicants who already have relevant professional experience. Applicants apply directly to the university offering their chosen course — not to DAAD directly — and each course sets its own admission and scholarship deadline, so exact dates vary widely across the roughly 200 eligible courses.",
+    "benefits": [
+      "Full tuition coverage at the host university for the selected course",
+      "A monthly stipend — published DAAD figures have cited approximately €992/month for master's students (rates are reviewed periodically, so confirm the current figure officially)",
+      "Contribution toward health, accident, and personal liability insurance",
+      "A travel allowance, unless already covered by another funder"
+    ],
+    "eligibility": [
+      "Typically requires a bachelor's degree (usually four years) in a relevant field",
+      "At least two years of relevant professional experience is generally required",
+      "Must be a national of a developing or newly industrialized country as defined on DAAD's eligible-country list",
+      "Additional academic or language requirements are set by each individual course — check the specific course page"
+    ],
+    "documents": [
+      "University-specific application form for the chosen EPOS course",
+      "CV in the Europass format",
+      "Motivation letter",
+      "Degree certificates and transcripts",
+      "Proof of professional experience",
+      "Language certificate (English or German, depending on the course)"
+    ],
+    "applicationProcess": [
+      "Browse the current EPOS course catalogue on the official DAAD scholarship database and choose an eligible course",
+      "Apply directly to the university offering that course, following its specific instructions and deadline — applications sent to DAAD directly are not forwarded to universities",
+      "Await the joint admission-and-scholarship decision from the university/DAAD selection committee"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "tags": ["Development Focus", "Professional Experience Required", "Apply Directly to University"],
+    "featured": true,
+    "faqs": [
+      { "question": "Do I apply to DAAD or to the university?", "answer": "You apply directly to the university offering your chosen EPOS course. DAAD does not process individual applications for EPOS — sending documents to DAAD instead of the university means they will not be considered." }
+    ]
+  },
+  {
+    "id": "s4",
+    "slug": "daad-research-grants-doctoral-germany",
+    "title": "DAAD Research Grants — Doctoral Programmes in Germany",
+    "university": "Varies — depends on the German host supervisor/institution you arrange",
+    "country": "Germany",
+    "countrySlug": "germany",
+    "degree": ["PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Research & Travel Contribution", "covered": true },
+      { "label": "Health Insurance", "covered": true },
+      { "label": "Tuition Fees", "covered": false }
+    ],
+    "deadlineInfo": "DAAD has historically run an annual application round (commonly referenced around November), but exact dates are set each cycle by DAAD and can change — confirm the current deadline on the official DAAD scholarship database rather than relying on any fixed date.",
+    "duration": "Full doctoral study of up to about 3–4 years, or shorter research stays for candidates enrolled elsewhere",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Natural Sciences", "Humanities", "Engineering", "Medicine"],
+    "overview": "This DAAD grant supports doctoral candidates conducting research in Germany, either for a full doctorate or a research stay, under the guidance of a German academic supervisor whom the applicant typically needs to secure in advance. Most German public universities charge little to no tuition for doctoral study, so this grant is structured around living and research costs rather than tuition.",
+    "benefits": [
+      "A monthly stipend — DAAD's published rate for doctoral candidates has been reported around €1,300, with an increase to roughly €1,400 referenced from 2026; confirm the current rate officially",
+      "A contribution toward research materials, fieldwork, and/or conference travel",
+      "Health, accident, and personal liability insurance coverage"
+    ],
+    "eligibility": [
+      "A strong master's degree (or equivalent) relevant to the proposed research",
+      "Confirmed willingness of a German professor to supervise the research, arranged directly between the applicant and the professor",
+      "Specific academic and graduation-recency requirements are set by DAAD each cycle — check the current guidelines"
+    ],
+    "documents": [
+      "Detailed research proposal",
+      "Letter of acceptance/support from the German host supervisor",
+      "Academic transcripts",
+      "Reference letters as specified in the current DAAD guidelines",
+      "Proof of language proficiency"
+    ],
+    "applicationProcess": [
+      "Contact and secure agreement from a German host supervisor before applying — this is arranged individually and is not guaranteed or matched by DAAD",
+      "Submit the application through the official DAAD portal by the current cycle's deadline",
+      "Await DAAD's review and funding decision"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "tags": ["Research Grant", "Doctoral Funding", "Requires Prior Supervisor Agreement"],
+    "faqs": [
+      { "question": "Does this grant cover tuition fees?", "answer": "Most German public universities charge little to no tuition for doctoral study regardless of scholarship status, so this DAAD grant is focused on living costs, insurance, and research/travel support rather than a tuition waiver." }
+    ]
+  },
+  {
+    "id": "s5",
+    "slug": "chevening-scholarship-uk",
+    "title": "Chevening Scholarship",
+    "university": "Any eligible UK university offering a one-year, full-time master's course",
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Travel to/from the UK", "covered": true },
+      { "label": "Visa application cost", "covered": true },
+      { "label": "Arrival & departure allowances", "covered": true }
+    ],
+    "deadlineInfo": "Chevening typically opens applications in August and closes in early November each cycle, but the exact dates are announced fresh every year on the official site — always confirm the current deadline there rather than assuming a specific date.",
+    "duration": "1 year, full-time",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Any subject at eligible UK universities"],
+    "overview": "Chevening is the UK government's flagship scholarship, funded by the Foreign, Commonwealth and Development Office (FCDO). It funds a one-year, full-time master's degree at any UK university and is aimed at applicants who already have meaningful work experience and demonstrated leadership potential, not first-time graduates. There is no upper age limit, according to Chevening's own eligibility page.",
+    "benefits": [
+      "Full university tuition fees",
+      "A monthly stipend to cover living costs",
+      "Return economy airfare to and from the UK",
+      "An arrival allowance and a homeward departure allowance",
+      "Cost of one UK visa application",
+      "A grant to attend Chevening-organized events in the UK"
+    ],
+    "eligibility": [
+      "Citizen of a Chevening-eligible country or territory (see the official eligible-country list)",
+      "At least two years of work experience, equivalent to roughly 2,800 hours, completed after your undergraduate degree",
+      "Hold an undergraduate degree that qualifies you for a UK master's programme",
+      "Must commit to returning to your home country for at least two years after the award ends",
+      "Must apply to and receive an unconditional offer from at least one of three eligible UK university courses you list in your application"
+    ],
+    "documents": [
+      "Chevening online application, including required essays on leadership, networking, and career plans",
+      "Two references",
+      "Degree certificates and transcripts",
+      "Unconditional university offer letter (required at a later stage of the process)",
+      "Valid passport"
+    ],
+    "applicationProcess": [
+      "Create an account and complete the online application on the official Chevening website",
+      "If shortlisted, complete an interview stage",
+      "Separately apply to up to three eligible UK university courses and secure an unconditional offer from at least one",
+      "Complete pre-departure and visa steps once the award is confirmed"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.chevening.org/",
+    "tags": ["Leadership Award", "One-Year Program", "Work Experience Required", "No Upper Age Limit"],
+    "featured": true,
+    "faqs": [
+      { "question": "Do I need to already have a university offer to apply?", "answer": "No — you apply to Chevening and to your chosen universities in parallel. If conditionally selected, you're then required to secure an unconditional offer from at least one of your three chosen courses before the award is finalized." },
+      { "question": "Is there a minimum IELTS score?", "answer": "English requirements are set by Chevening and by your chosen university and can vary; check the current Chevening eligibility guidance and your specific university's language requirements rather than assuming one fixed score." }
+    ]
+  },
+  {
+    "id": "s6",
+    "slug": "commonwealth-shared-scholarship-uk",
+    "title": "Commonwealth Shared Scholarship",
+    "university": "Varies — selected one-year courses at participating UK universities",
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Living Allowance", "covered": true },
+      { "label": "Details vary by university", "covered": true }
+    ],
+    "deadlineInfo": "The list of eligible courses and universities is confirmed annually, and candidate applications typically open in the months after that (recent cycles have opened around November and closed in December), but this shifts each year — confirm current dates on the official CSC site.",
+    "duration": "1 year, full-time",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Health systems", "Governance & security", "Global prosperity", "Access, inclusion & opportunity", "Science & technology for development", "Resilience & crisis response"],
+    "overview": "Commonwealth Shared Scholarships are funded jointly by the UK's Commonwealth Scholarship Commission (CSC) and participating UK universities, for full-time master's study on a specific list of approved one-year courses. They are aimed at students from low- and lower-middle-income Commonwealth countries who could not otherwise afford to study in the UK. Unlike some other Commonwealth award types, candidates apply directly — there is no separate national nominating body for this particular scheme.",
+    "benefits": [
+      "Tuition fees, paid by the CSC",
+      "A living allowance and other support, funded by the host university (this can vary by institution — check the specific course's funding details)"
+    ],
+    "eligibility": [
+      "Citizen of, or refugee based in, an eligible low- or lower-middle-income Commonwealth country (see the CSC's official country list)",
+      "Meet the academic and English-language requirements of your chosen course",
+      "Generally expected to be unable to afford UK study without this funding",
+      "Course choice must be one of the specific courses approved for Commonwealth Shared Scholarships that year — the list changes annually"
+    ],
+    "documents": [
+      "CSC online scholarship application",
+      "Separate application to the specific master's programme at the host university",
+      "Academic transcripts",
+      "References as required by the CSC and by the university"
+    ],
+    "applicationProcess": [
+      "Check the CSC's current list of approved Commonwealth Shared Scholarship courses for that year",
+      "Apply to both the CSC's online scholarship system and your chosen university's master's programme, by their respective deadlines",
+      "Await the joint decision from the CSC and the university"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/",
+    "tags": ["Development Focus", "Apply Directly — No Nominating Body", "Course List Changes Yearly"],
+    "faqs": [
+      { "question": "Do I need to be nominated by my government to apply?", "answer": "No — Commonwealth Shared Scholarships (unlike the CSC's separately nominated Master's/PhD Scholarships) are applied for directly by candidates through the CSC's own online system alongside the university application, with no national nominating agency involved." }
+    ]
+  },
+  {
+    "id": "s7",
+    "slug": "fulbright-foreign-student-program-usa",
+    "title": "Fulbright Foreign Student Program",
+    "university": "Placement varies — accredited U.S. universities and institutions",
+    "country": "United States",
+    "countrySlug": "united-states",
+    "degree": ["Master", "PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Airfare", "covered": true },
+      { "label": "Health Insurance", "covered": true }
+    ],
+    "deadlineInfo": "There is no single global Fulbright deadline. Applications are processed by the binational Fulbright Commission or U.S. Embassy in your own country, and both the deadline and the specific eligibility rules differ by country — sometimes significantly. You must check the Fulbright page for your specific country of citizenship for the current schedule.",
+    "duration": "Typically one year or longer, depending on the degree and country program",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Nearly all fields except clinical/medical-practice programs such as medicine, dentistry, pharmacy, and nursing (some related fields like public health are permitted)"],
+    "overview": "The Fulbright Foreign Student Program is a flagship U.S. government exchange scholarship enabling graduate students, young professionals, and artists from abroad to study and conduct research at U.S. institutions. Critically, program eligibility, benefits, and the entire selection process 'vary widely by country' according to the official Fulbright site — so generic, one-size-fits-all descriptions of this scholarship are unreliable. You must look up your specific home country's Fulbright Commission or U.S. Embassy page.",
+    "benefits": [
+      "Generally includes tuition, a living stipend, and health insurance",
+      "Often includes travel to and from the United States",
+      "Exact benefit packages differ by country and award type — check your country-specific page"
+    ],
+    "eligibility": [
+      "Must generally hold the equivalent of a U.S. bachelor's degree",
+      "Detailed eligibility (age, field restrictions, English proficiency, work experience) is set separately for each country — there is no single universal eligibility list"
+    ],
+    "documents": [
+      "Requirements differ by country — check your local Fulbright Commission/Embassy page for the exact document list"
+    ],
+    "applicationProcess": [
+      "Find your home country in the official Fulbright Foreign Student Program country directory",
+      "Follow that country's specific application instructions, deadline, and selection process, which is run by the local Fulbright Commission or U.S. Embassy — not by a single centralized process"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://foreign.fulbrightonline.org/",
+    "tags": ["Flagship Program", "Eligibility Varies Significantly by Country"],
+    "featured": true,
+    "faqs": [
+      { "question": "Why don't you list one deadline or one set of requirements?", "answer": "Because there genuinely isn't one — the official Fulbright site states that eligibility, benefits, and selection procedures vary by country, administered independently by each country's Fulbright Commission or U.S. Embassy. Any source giving you one fixed date or one fixed rule for every country should be treated with caution." }
+    ]
+  },
+  {
+    "id": "s8",
+    "slug": "hubert-humphrey-fellowship-usa",
+    "title": "Hubert H. Humphrey Fellowship Program",
+    "university": "Placement assigned among designated U.S. host universities (varies by fellow)",
+    "country": "United States",
+    "countrySlug": "united-states",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Program Fees", "covered": true },
+      { "label": "Monthly Allowance", "covered": true },
+      { "label": "Airfare", "covered": true },
+      { "label": "Pre-academic English training (if needed)", "covered": true }
+    ],
+    "deadlineInfo": "Applications go through the Fulbright Commission or the U.S. Embassy Public Affairs Section in your home country, and the deadline is set independently by each of those offices — there is no single worldwide date. Contact your country's Fulbright Commission/Embassy for the current deadline.",
+    "duration": "10 months, non-degree",
+    "ieltsRequired": true,
+    "fieldsOfStudy": ["Public policy", "Journalism", "Public health", "Natural resources/environment", "Economic policy", "Technology policy", "and other public-service-related fields"],
+    "overview": "The Humphrey Fellowship is a non-degree, U.S. government-funded professional development program (part of the Fulbright family of exchanges) for experienced, mid-career professionals with a track record of leadership and public service. Fellows undertake a self-designed year of graduate-level, non-degree study and professional collaboration at one of a set of U.S. host universities; the specific host institution is assigned as part of placement, not chosen freely by the applicant in advance.",
+    "benefits": [
+      "Program tuition/fees at the assigned host university",
+      "A monthly living allowance",
+      "Round-trip airfare to the United States",
+      "Pre-academic English language training if required",
+      "A one-time settling-in allowance"
+    ],
+    "eligibility": [
+      "At least five years of full-time, relevant professional experience is generally required",
+      "A demonstrated record of leadership and public service commitment",
+      "A relevant first degree (bachelor's-equivalent)",
+      "Additional country-specific criteria apply and are set by your local Fulbright Commission/Embassy"
+    ],
+    "documents": [
+      "Application requirements are set by your local Fulbright Commission/Embassy — check their site directly"
+    ],
+    "applicationProcess": [
+      "Contact the Fulbright Commission or U.S. Embassy Public Affairs Section in your home country for eligibility details and the current deadline",
+      "Submit your application through that office, not directly to a U.S. university",
+      "If selected in-country, your application proceeds to the U.S.-based Humphrey selection process, which assigns a host university placement"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.humphreyfellowship.org/",
+    "tags": ["Mid-Career Professionals", "Non-Degree", "Placement Assigned, Not Chosen"],
+    "faqs": [
+      { "question": "Can I choose my host university?", "answer": "No — Humphrey Fellows are placed at one of a set of designated U.S. host universities as part of the national selection process; you do not apply directly to a specific university of your choice." }
+    ]
+  },
+  {
+    "id": "s9",
+    "slug": "australia-awards-scholarship",
+    "title": "Australia Awards Scholarship",
+    "university": "Varies — participating Australian universities",
+    "country": "Australia",
+    "countrySlug": "australia",
+    "degree": ["Master", "PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Return airfare", "covered": true },
+      { "label": "Establishment allowance", "covered": true },
+      { "label": "Overseas Student Health Cover (OSHC)", "covered": true }
+    ],
+    "deadlineInfo": "Deadlines differ by country of citizenship, with recent cycles opening around February and closing around April — but this is set per-country each year. Check your specific country's Australia Awards page for the exact current date.",
+    "duration": "The minimum period required to complete the specific program, including any preparatory training",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Varies by country — each participating country has its own designated priority development areas, e.g. health, education, governance, agriculture, infrastructure"],
+    "overview": "Australia Awards are long-term development scholarships funded by the Australian Government (Department of Foreign Affairs and Trade) for students from a defined list of partner/developing countries. Applicants must apply from, and be a citizen of, one of the participating countries, and their proposed course of study generally needs to align with that country's specific priority development areas — so exact eligible fields differ from country to country.",
+    "benefits": [
+      "Full tuition fees",
+      "Return economy airfare to and from Australia",
+      "A one-off establishment allowance and a Contribution to Living Expenses (CLE)",
+      "Overseas Student Health Cover (OSHC) for the award holder",
+      "Academic support such as an Introductory Academic Program"
+    ],
+    "eligibility": [
+      "Citizen of, and residing in, a participating Australia Awards country at the time of application",
+      "Not married to, engaged to, or in a de facto relationship with someone who holds or is eligible for Australian or New Zealand citizenship/permanent residency, during the application, selection, or mobilization phases",
+      "Able to meet the admission requirements of the specific Australian institution and course",
+      "Able to meet Australian student visa requirements",
+      "Additional country-specific priority-area and eligibility rules apply — check your country's Australia Awards page"
+    ],
+    "documents": [
+      "Application submitted through the official OASIS online system (oasis.dfat.gov.au)",
+      "Academic transcripts and certificates",
+      "English test results",
+      "Any additional documents specified for your country"
+    ],
+    "applicationProcess": [
+      "Check your country's specific eligibility, priority fields, and open/close dates on the Australia Awards website",
+      "Apply online through OASIS (oasis.dfat.gov.au) — apply well before the closing date, as the system experiences heavy traffic near deadlines",
+      "Attend any interview or additional screening steps required for your country",
+      "If offered, complete visa and pre-departure requirements"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.australiaawards.gov.au/",
+    "tags": ["Development Focus", "Country-Specific Priority Areas", "Apply via OASIS"],
+    "featured": true,
+    "faqs": [
+      { "question": "Can I study any subject I want?", "answer": "Not necessarily — most participating countries require your proposed course to align with that country's specific designated priority development areas (e.g. health, education, governance), which vary by country and are listed on your country's Australia Awards page." }
+    ]
+  },
+  {
+    "id": "s10",
+    "slug": "research-training-program-australia",
+    "title": "Research Training Program (RTP)",
+    "university": "Any eligible Australian university (scholarship is awarded by the institution, not centrally)",
+    "country": "Australia",
+    "countrySlug": "australia",
+    "degree": ["PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fee Offset", "covered": true },
+      { "label": "Living Stipend", "covered": true },
+      { "label": "Airfare", "covered": false }
+    ],
+    "deadlineInfo": "There is no separate national RTP deadline — each Australian university sets its own scholarship application timeline as part of its standard research-degree admission process. Check the specific university's higher-degree-by-research admissions page.",
+    "duration": "Up to 4 years for a PhD, up to 2 years for a research master's (varies by university policy)",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Any research field offered as a higher degree by research (HDR) at the host university"],
+    "overview": "The Research Training Program is Australian Government block-grant funding, distributed annually to eligible Australian universities, which then award individual RTP scholarships (a tuition fee offset and/or living stipend) to their own domestic and international research students as part of the standard PhD/research-master's admission and scholarship process. Because each university runs its own selection, there is no single national RTP application — you apply through your chosen university.",
+    "benefits": [
+      "A tuition fee offset covering some or all of your HDR tuition, at the discretion of the university",
+      "A living stipend, again set and administered by the individual university (rates and availability vary)"
+    ],
+    "eligibility": [
+      "Enrolled or intending to enrol in an accredited research doctorate or research master's degree at an eligible Australian university",
+      "Must not already be receiving another Australian Government award intended to cover the same costs",
+      "Specific academic and competitive selection criteria are set by each university"
+    ],
+    "documents": [
+      "Standard postgraduate research degree application to your chosen university, plus that university's own RTP/scholarship application form"
+    ],
+    "applicationProcess": [
+      "Apply for admission to a research doctorate or research master's degree at your chosen Australian university",
+      "Submit that university's own RTP scholarship application, following its specific process and deadline",
+      "Selection is made by the university, not by a central government body"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.education.gov.au/research-training-program",
+    "tags": ["University-Administered", "No Separate National Application"],
+    "faqs": [
+      { "question": "Do I apply to the Australian Government for RTP funding?", "answer": "No — RTP is block-grant funding given to universities, and each university runs its own scholarship selection process as part of admission. You apply to the university, not to a central government portal." }
+    ]
+  },
+  {
+    "id": "s11",
+    "slug": "global-korea-scholarship-undergraduate",
+    "title": "Global Korea Scholarship (GKS) — Undergraduate",
+    "university": "Placement varies among GKS-participating Korean universities",
+    "country": "South Korea",
+    "countrySlug": "south-korea",
+    "degree": ["Bachelor"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Allowance", "covered": true },
+      { "label": "Airfare", "covered": true },
+      { "label": "Korean Language Training", "covered": true }
+    ],
+    "deadlineInfo": "The Embassy Track and University Track have separate, differing application windows announced each year on the official Study in Korea site — there is no single fixed date. Check the current year's notice at studyinkorea.go.kr before preparing your application.",
+    "duration": "Includes an initial year of Korean language training plus the standard length of the bachelor's program (roughly 4–6 years total, program-dependent)",
+    "ieltsRequired": false,
+    "fieldsOfStudy": ["Varies by participating university — engineering, business, natural sciences, humanities, and more"],
+    "overview": "The Global Korea Scholarship (GKS) — formerly known as the Korean Government Scholarship Program (KGSP) — is South Korea's main government-funded scholarship for international students, administered by the National Institute for International Education (NIIED). The undergraduate track funds tuition, a monthly stipend, and a year of Korean language preparation before the degree itself begins. Applicants choose either the Embassy Track or the University Track, which have different application procedures and deadlines.",
+    "benefits": [
+      "Full tuition waiver",
+      "A monthly living allowance (exact published figures have varied — confirm the current amount on studyinkorea.go.kr)",
+      "One round-trip airfare ticket",
+      "One year of Korean language training before the degree program starts"
+    ],
+    "eligibility": [
+      "Generally restricted to applicants under a set age limit (guidance has cited under 25 for undergraduate applicants, but confirm the current limit officially)",
+      "Both the applicant and their parents must hold non-Korean citizenship",
+      "Must have completed, or be completing, secondary education with a strong academic record",
+      "Specific GPA and health requirements are published in each year's official GKS guidelines"
+    ],
+    "documents": [
+      "GKS application form for the current cycle",
+      "Secondary school transcripts and certificate",
+      "Personal statement and study plan",
+      "Recommendation letters as specified that year",
+      "Passport and proof of citizenship for applicant and parents"
+    ],
+    "applicationProcess": [
+      "Choose either the Embassy Track (apply through the Korean Embassy/Consulate in your country) or the University Track (apply directly to a GKS-designated university)",
+      "Follow the current year's official guidelines published on studyinkorea.go.kr, since document requirements and screening steps differ between the two tracks"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.studyinkorea.go.kr/",
+    "tags": ["Formerly Known as KGSP", "No IELTS Required", "Two Application Tracks"],
+    "featured": true,
+    "faqs": [
+      { "question": "Is KGSP a different scholarship from GKS?", "answer": "No — KGSP (Korean Government Scholarship Program) was the original name; the program was rebranded to GKS (Global Korea Scholarship). The benefits and structure are the same program under a new name." }
+    ]
+  },
+  {
+    "id": "s12",
+    "slug": "global-korea-scholarship-graduate",
+    "title": "Global Korea Scholarship (GKS) — Graduate",
+    "university": "Placement varies among GKS-participating Korean universities",
+    "country": "South Korea",
+    "countrySlug": "south-korea",
+    "degree": ["Master", "PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Allowance", "covered": true },
+      { "label": "Airfare", "covered": true },
+      { "label": "Settlement Allowance", "covered": true }
+    ],
+    "deadlineInfo": "The Embassy Track and University Track run on separate schedules announced annually, with the University Track window generally longer than the Embassy Track's roughly two-week window. Check studyinkorea.go.kr for the current year's exact dates rather than assuming a fixed month.",
+    "duration": "Program length depends on degree level, generally around 2–3 years",
+    "ieltsRequired": false,
+    "fieldsOfStudy": ["Varies by participating university — computer science, engineering, public administration, and more"],
+    "overview": "The graduate track of the Global Korea Scholarship (GKS, formerly KGSP) supports master's and doctoral study at Korean universities. As with the undergraduate track, there are two separate application routes — Embassy Track and University Track — with different processes, document requirements, and deadlines, so applicants should confirm details for their specific route directly with NIIED or their target university.",
+    "benefits": [
+      "Full tuition waiver up to an annual ceiling set by NIIED",
+      "A monthly living allowance (published figures have varied — confirm the current rate officially)",
+      "A settlement allowance on arrival",
+      "Round-trip airfare"
+    ],
+    "eligibility": [
+      "Generally restricted to applicants under a set age limit (guidance has cited under 40 for graduate applicants — confirm the current limit officially)",
+      "A completed bachelor's degree (for master's applicants) or master's degree (for PhD applicants)",
+      "Both the applicant and their parents must hold non-Korean citizenship",
+      "Specific GPA and document requirements are published in each year's official GKS guidelines"
+    ],
+    "documents": [
+      "GKS graduate application form for the current cycle",
+      "Degree certificates and transcripts",
+      "Research plan or study proposal",
+      "Recommendation letters as specified that year",
+      "Health examination report"
+    ],
+    "applicationProcess": [
+      "Choose either the Embassy Track or the University Track",
+      "Submit the required documents by that track's current deadline, following the official guidelines published on studyinkorea.go.kr"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.studyinkorea.go.kr/",
+    "tags": ["Formerly Known as KGSP", "STEM & Other Fields", "No IELTS Required"],
+    "faqs": [
+      { "question": "What's the difference between the Embassy and University tracks?", "answer": "The Embassy Track is coordinated through Korean diplomatic missions abroad; the University Track lets you apply directly to a specific GKS-participating Korean university. Each has its own process and deadline, published separately each year on studyinkorea.go.kr." }
+    ]
+  },
+  {
+    "id": "s13",
+    "slug": "canada-graduate-research-scholarship-doctoral",
+    "title": "Canada Graduate Research Scholarship – Doctoral (CGRS-D)",
+    "university": "Any eligible Canadian institution (must be nominated by that institution)",
+    "country": "Canada",
+    "countrySlug": "canada",
+    "degree": ["PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Annual Stipend", "covered": true },
+      { "label": "Tuition Fees", "covered": false },
+      { "label": "Health Insurance", "covered": false }
+    ],
+    "deadlineInfo": "Deadlines are set jointly by each nominating Canadian institution and by the three federal granting agencies (CIHR, NSERC, SSHRC) each competition year — confirm both your institution's internal deadline and the national deadline on the official tri-agency pages.",
+    "duration": "Up to 3 years",
+    "ieltsRequired": true,
+    "minIelts": 7.0,
+    "fieldsOfStudy": ["Health Research", "Natural Sciences & Engineering", "Social Sciences & Humanities"],
+    "overview": "Important update: the previous Vanier Canada Graduate Scholarship program was discontinued after its final competition in fall 2024 (results released April 2025). It has been replaced by the harmonized Canada Graduate Research Scholarship – Doctoral (CGRS-D), administered jointly by Canada's three federal granting agencies (CIHR, NSERC, SSHRC). If you see 'Vanier' referenced as a currently open scholarship elsewhere, that information is outdated — apply through the current CGRS-D process instead. Because this program is new, some details (including international-student eligibility rules at specific institutions) are still being finalized by individual universities, so confirm directly with your target institution's graduate office and the official tri-agency CGRS-D page.",
+    "benefits": [
+      "An annual stipend (published guidance has referenced approximately CAD $40,000/year — confirm the current rate on the official tri-agency site)",
+      "Recognition as one of Canada's most competitive doctoral research awards"
+    ],
+    "eligibility": [
+      "Must be nominated by an eligible Canadian institution — there is no direct application without an institutional nomination",
+      "In the early stage of doctoral study (specific time-in-program limits are set by the agencies and may be updated — confirm current rules)",
+      "International-student eligibility and quotas are set individually by each nominating institution and by the granting agencies — this can differ from what applied under the old Vanier program, so do not assume the same rules automatically carry over"
+    ],
+    "documents": [
+      "Institutional nomination package",
+      "Research proposal",
+      "Reference letters",
+      "Academic transcripts",
+      "Requirements are being finalized under the new CGRS-D framework — confirm the current document list with your institution and the tri-agency portals (ResearchNet, and the CIHR/NSERC/SSHRC application systems)"
+    ],
+    "applicationProcess": [
+      "Secure admission or enrolment at a Canadian institution that has a CGRS-D nomination allocation",
+      "Work with your institution's graduate studies office on the internal nomination process",
+      "Submit your application through the relevant agency's online system (CIHR, NSERC, or SSHRC, depending on your research area)"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://vanier.gc.ca/en/home-accueil.html",
+    "tags": ["Replaces the Discontinued Vanier CGS", "Nomination Required", "New Program — Details Still Finalizing"],
+    "featured": true,
+    "faqs": [
+      { "question": "Is the Vanier Scholarship still available?", "answer": "No. The Vanier Canada Graduate Scholarship held its final competition in fall 2024, with results released in April 2025, and is no longer accepting applications. It has been replaced by the Canada Graduate Research Scholarship – Doctoral (CGRS-D). Please disregard any information elsewhere describing Vanier as currently open." }
+    ]
+  },
+  {
+    "id": "s14",
+    "slug": "ontario-trillium-scholarship-canada",
+    "title": "Ontario Trillium Scholarship (OTS)",
+    "university": "Participating Ontario universities (e.g. University of Toronto and other Ontario institutions with an OTS allocation)",
+    "country": "Canada",
+    "countrySlug": "canada",
+    "degree": ["PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Annual Award", "covered": true },
+      { "label": "Tuition Fees", "covered": false },
+      { "label": "Details vary by university", "covered": true }
+    ],
+    "deadlineInfo": "OTS nomination happens through your academic department after you are admitted, so the effective deadline is tied to your program's own admission deadline at each participating Ontario university — this varies by institution and department. There is no separate centrally published OTS deadline.",
+    "duration": "Renewable for up to 4 years, subject to maintaining eligibility and good academic standing",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Any discipline offered as a doctoral program at a participating Ontario university"],
+    "overview": "The Ontario Trillium Scholarship (OTS) is a Government of Ontario initiative that provides CAD $40,000 per year (renewable for up to four years) to a limited number of outstanding international PhD students at participating Ontario universities. It is specifically restricted to Ontario institutions — it is not available at universities outside Ontario (for example, it is not available at University of British Columbia, which is in a different province). Most participating universities nominate eligible, high-performing applicants automatically as part of the standard admissions process, rather than requiring a separate scholarship application.",
+    "benefits": [
+      "CAD $40,000 per year",
+      "Renewable for up to four years, subject to maintaining good academic standing"
+    ],
+    "eligibility": [
+      "International student status (not a Canadian citizen or permanent resident)",
+      "Admission to an eligible doctoral program at a participating Ontario university",
+      "Strong academic record from prior degrees",
+      "Nomination by the admitting department — this is generally automatic for top applicants but processes can differ slightly by university"
+    ],
+    "documents": [
+      "Standard doctoral program application to a participating Ontario university",
+      "No separate OTS application form is typically required — check with your specific department to confirm"
+    ],
+    "applicationProcess": [
+      "Apply for admission to an eligible doctoral program at a participating Ontario university (e.g. University of Toronto)",
+      "If eligible, your department nominates you for OTS as part of the standard admission process",
+      "Confirm with your specific department whether any additional step is required, since practices can vary slightly by university"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.sgs.utoronto.ca/awards/ontario-trillium-scholarship-ots/",
+    "tags": ["Ontario Universities Only", "Automatic Nomination (Typically)", "International Students Only"],
+    "faqs": [
+      { "question": "Is this available at any Canadian university?", "answer": "No — OTS is an Ontario provincial government program and is only available at participating universities located in Ontario, such as the University of Toronto. It is not offered at universities in other provinces." }
+    ]
+  },
+  {
+    "id": "s15",
+    "slug": "chinese-government-scholarship-csc",
+    "title": "Chinese Government Scholarship (CSC)",
+    "university": "Varies — CSC-affiliated Chinese universities (Type A via embassy nomination or Type B via direct university application)",
+    "country": "China",
+    "countrySlug": "china",
+    "degree": ["Bachelor", "Master", "PhD"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Accommodation", "covered": true },
+      { "label": "Monthly Stipend (Type A)", "covered": true },
+      { "label": "Medical Insurance", "covered": true }
+    ],
+    "deadlineInfo": "Type A (embassy/government-nominated) and Type B (direct university application) run on different schedules, and each participating university or nominating agency sets its own internal deadline — often earlier than any general CSC-wide date. Check the official campuschina.org listing and your specific nominating agency or university.",
+    "duration": "Varies by degree level, generally 4 years for Bachelor's, 2–3 years for Master's, 3–4 years for PhD",
+    "ieltsRequired": false,
+    "fieldsOfStudy": ["Varies widely by host university — engineering, medicine, business, and more"],
+    "overview": "The Chinese Government Scholarship (CGS/CSC), administered by the China Scholarship Council, funds students at all degree levels at partner Chinese universities. There are two main application routes: Type A, generally nominated through a Chinese embassy/consulate or a partner government agency in your country, and Type B, where you apply directly to a specific CSC-affiliated Chinese university. Coverage and process can differ between the two, and between universities within Type B, so confirm specifics with your chosen route.",
+    "benefits": [
+      "Tuition fee exemption",
+      "On-campus accommodation or a housing subsidy",
+      "For Type A: a monthly living stipend (amount varies by degree level and has been cited in past guidance as roughly 2,500–3,500 RMB/month — confirm current figures officially, as Type B benefits can differ)",
+      "Basic medical insurance"
+    ],
+    "eligibility": [
+      "Non-Chinese citizenship, in good health",
+      "Age limits are generally cited around: under 25 for Bachelor's, under 35 for Master's, under 40 for PhD, though exact limits are set annually — confirm officially",
+      "Must already hold the qualification below the level applied for (e.g. a high school diploma for Bachelor's applicants)",
+      "Cannot be receiving another Chinese government scholarship at the same time"
+    ],
+    "documents": [
+      "CSC Online Application System registration and form",
+      "Highest diploma and transcripts, often requiring notarization",
+      "Study plan or research proposal",
+      "Recommendation letters",
+      "Foreigner Physical Examination Form"
+    ],
+    "applicationProcess": [
+      "Decide between Type A (via your country's nominating embassy/agency) or Type B (direct to a specific Chinese university)",
+      "Register on the CSC Online Application System (campuschina.org) and follow the specific instructions for your chosen route and university",
+      "Submit required documents by the relevant deadline (set by the nominating agency for Type A, or by the individual university for Type B)"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.campuschina.org/",
+    "tags": ["All Degree Levels", "Two Application Routes (Type A / Type B)"],
+    "featured": true,
+    "faqs": [
+      { "question": "What's the difference between Type A and Type B?", "answer": "Type A applications are generally nominated through a Chinese embassy/consulate or a designated government agency in your country. Type B applications are submitted directly to a specific CSC-affiliated Chinese university. Benefits, required documents, and deadlines can differ between the two — check the specific route you're using." }
+    ]
+  },
+  {
+    "id": "s16",
+    "slug": "china-bilateral-program-scholarships",
+    "title": "Chinese Government Scholarship — Bilateral / Partner-Country Programs",
+    "university": "Varies — participating Chinese universities under bilateral agreements",
+    "country": "China",
+    "countrySlug": "china",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Accommodation", "covered": true },
+      { "label": "Monthly Stipend", "covered": true },
+      { "label": "Medical Insurance", "covered": true }
+    ],
+    "deadlineInfo": "These are Type A programs nominated through your country's designated agency (for example, a Ministry of Education or Higher Education Commission), so the deadline is set by that agency, not by CSC centrally. Check with your country's designated nominating body and campuschina.org.",
+    "duration": "Typically 2–3 years",
+    "ieltsRequired": false,
+    "fieldsOfStudy": ["Varies by bilateral agreement and host university — commonly international trade, public administration, economics, engineering"],
+    "overview": "Under its Type A category, the China Scholarship Council runs a number of bilateral and partner-country programs (nominated through a designated agency in the applicant's home country) for students from specific partner countries. Exact program names, eligible countries, and available fields vary and are set by each bilateral agreement, so applicants should confirm current details with their own country's nominating agency rather than assuming they qualify for a generic 'partner country' scholarship.",
+    "benefits": [
+      "Full tuition waiver",
+      "On-campus accommodation",
+      "A monthly living stipend (amount confirmed by the nominating agency and CSC)",
+      "Basic medical insurance"
+    ],
+    "eligibility": [
+      "Citizenship of a country with an active bilateral agreement covering the specific program",
+      "A relevant bachelor's degree with a strong academic record",
+      "Age and other requirements are set by the specific bilateral program — confirm with your nominating agency"
+    ],
+    "documents": [
+      "Nominating agency's application form",
+      "Bachelor's degree and transcripts",
+      "Recommendation letters",
+      "Study plan"
+    ],
+    "applicationProcess": [
+      "Confirm with your home country's designated nominating agency (often a Ministry of Education or Higher Education Commission) whether a bilateral CSC program is currently open to you",
+      "Apply through that agency's process, which then forwards nominations to CSC",
+      "Await joint confirmation from the nominating agency and the Chinese host university"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.campuschina.org/",
+    "tags": ["Type A — Nominated Route", "Country-Specific Eligibility"],
+    "faqs": [
+      { "question": "Is this scholarship open to all nationalities?", "answer": "No — bilateral programs are only open to citizens of countries with an active agreement covering that specific program, and eligibility is confirmed through your country's designated nominating agency, not by applying independently." }
+    ]
+  },
+  {
+    "id": "s17",
+    "slug": "netherlands-university-specific-ots-scholarships",
+    "title": "Orange Tulip Scholarship — University-Specific Awards",
+    "university": "Varies — offered independently by individual Dutch universities (e.g. TU Delft, University of Twente, Wageningen University)",
+    "country": "Netherlands",
+    "countrySlug": "netherlands",
+    "degree": ["Bachelor", "Master"],
+    "funding": "Partially Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fee Reduction", "covered": true },
+      { "label": "Monthly Stipend", "covered": false },
+      { "label": "Amount varies by university", "covered": true }
+    ],
+    "deadlineInfo": "Important: the centralized Orange Tulip Scholarship program previously coordinated by Nuffic/NESO offices was discontinued in 2024. Several Dutch universities still run their own OTS-branded scholarships independently, each with its own amount, eligibility, and deadline — there is no longer one central deadline or application process. Check the international office page of the specific Dutch university you're interested in.",
+    "duration": "1–4 years, depending on the program",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Varies by participating university"],
+    "overview": "The Orange Tulip Scholarship (OTS) name is still used in the Netherlands, but the program has changed structurally: the centralized version run through Nuffic's NESO offices in partner countries was discontinued in 2024. Individual Dutch universities (such as TU Delft, University of Twente, and Wageningen University) now run their own OTS-branded scholarships independently, each with different award amounts (ranging from partial tuition waivers to full tuition plus a living allowance at some institutions), eligibility rules, and deadlines. Because of this, generic descriptions of 'the' Orange Tulip Scholarship are likely to be outdated — always check the specific university's own scholarship page.",
+    "benefits": [
+      "Award amounts vary significantly by university — anywhere from a partial tuition reduction to full tuition plus a living allowance at some institutions",
+      "Check your target university's specific scholarship page for the current award value"
+    ],
+    "eligibility": [
+      "Varies by university — generally requires admission (or an active application) to that university's bachelor's or master's programme",
+      "Often restricted to applicants from specific countries the university partners with — this is set independently by each institution"
+    ],
+    "documents": [
+      "Requirements are set independently by each university — check the specific scholarship page you're applying to"
+    ],
+    "applicationProcess": [
+      "Identify which Dutch universities currently offer their own OTS-branded scholarship for your country and programme",
+      "Apply for admission to that university's programme, then follow that university's specific scholarship application process and deadline"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.studyinnl.org/finances/grants-and-loans",
+    "tags": ["Program Restructured in 2024", "University-Specific — No Longer Centralized"],
+    "faqs": [
+      { "question": "Can I apply for the Orange Tulip Scholarship through Nuffic or a NESO office?", "answer": "The centralized OTS programme previously coordinated through Nuffic's NESO offices was discontinued in 2024. Current OTS-branded awards are run independently by individual Dutch universities, so you should apply directly through the specific university's international office rather than through Nuffic/NESO." }
+    ]
+  },
+  {
+    "id": "s18",
+    "slug": "nl-scholarship-netherlands",
+    "title": "NL Scholarship (formerly the Holland Scholarship)",
+    "university": "Participating Dutch research universities and universities of applied sciences",
+    "country": "Netherlands",
+    "countrySlug": "netherlands",
+    "degree": ["Bachelor", "Master"],
+    "funding": "Partially Funded",
+    "fundingDetails": [
+      { "label": "One-Time Grant", "covered": true },
+      { "label": "Tuition Fees (remaining years)", "covered": false },
+      { "label": "Monthly Stipend", "covered": false }
+    ],
+    "deadlineInfo": "Applications are generally made through your chosen Dutch university around the time of program admission, with deadlines commonly falling around January–February — but this is set by Nuffic and by each participating institution, so confirm the current date on the official page.",
+    "duration": "One-time award, applied to the first year of a multi-year program",
+    "ieltsRequired": true,
+    "minIelts": 6.0,
+    "fieldsOfStudy": ["Any field at a participating Dutch institution"],
+    "overview": "This scholarship — funded by the Dutch Ministry of Education and participating universities, and centrally coordinated via Nuffic — has also been referred to as the 'NL Scholarship' in more recent communications, alongside its earlier name, the Holland Scholarship. It provides a one-time grant toward first-year costs for non-EEA students starting a bachelor's or master's degree in the Netherlands. It is not a full-ride scholarship — students need to plan for tuition and living costs beyond the first year separately.",
+    "benefits": [
+      "A one-time grant (commonly cited around €5,000) toward first-year costs — confirm the current amount on the official page, as figures are reviewed periodically"
+    ],
+    "eligibility": [
+      "Non-EEA nationality",
+      "First-time enrollment in a Dutch bachelor's or master's programme",
+      "Strong academic performance in prior studies",
+      "Admission to, or an active application at, a participating Dutch institution"
+    ],
+    "documents": [
+      "Application submitted through the participating university's own portal, alongside or after your program application",
+      "Motivation letter",
+      "Academic transcripts",
+      "Proof of English proficiency"
+    ],
+    "applicationProcess": [
+      "Apply to a participating Dutch university programme",
+      "Submit the scholarship application through that university's portal, following its specific instructions and deadline",
+      "Await the university's decision, typically alongside your admission result"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.studyinnl.org/finances/grants-and-loans/nl-scholarship",
+    "tags": ["One-Time Grant Only", "Non-EEA Students", "Not Full Tuition"],
+    "faqs": [
+      { "question": "Does this scholarship cover my whole degree?", "answer": "No — it is a one-time grant that applies to your first year only. You will need to budget separately for tuition and living costs in the remaining years of your program." }
+    ]
+  },
+  {
+    "id": "s19",
+    "slug": "swedish-institute-scholarship",
+    "title": "Swedish Institute Scholarships for Global Professionals (SISGP)",
+    "university": "Any eligible Swedish university offering an SI-approved master's programme",
+    "country": "Sweden",
+    "countrySlug": "sweden",
+    "degree": ["Master"],
+    "funding": "Fully Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fees", "covered": true },
+      { "label": "Monthly Allowance", "covered": true },
+      { "label": "Travel Grant", "covered": true },
+      { "label": "Insurance", "covered": true }
+    ],
+    "deadlineInfo": "Recent cycles have followed this general pattern: apply to a Swedish master's programme via universityadmissions.se in the preceding autumn/winter (around October–January), then apply separately for the SI scholarship during a short window in February. Exact dates change every year — confirm the current schedule on si.se before you plan around it.",
+    "duration": "1–2 years, depending on the master's programme",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Varies — governance, public health, entrepreneurship, sustainability, STEM fields, and others, depending on which master's programmes are SI-approved that year"],
+    "overview": "The Swedish Institute Scholarship for Global Professionals (SISGP) funds full-time master's study in Sweden for professionals who show leadership potential and a commitment to sustainable development back in their home country. Importantly, it is only open to citizens of a specific, fixed list of eligible countries published by the Swedish Institute (roughly 30+ countries as of recent cycles) — it is not open to applicants from every 'developing' country in general, so check the current official list rather than assuming your country qualifies.",
+    "benefits": [
+      "Full tuition fee coverage, paid directly to the university",
+      "A monthly allowance (recent published guidance has cited around SEK 12,000/month — confirm the current amount officially)",
+      "A one-time travel grant (recent guidance has cited figures around SEK 15,000, with a lower amount for a few specific countries — confirm officially)",
+      "Membership in the SI Network for Future Global Professionals"
+    ],
+    "eligibility": [
+      "Citizen of one of the Swedish Institute's specific list of eligible countries (check the current official list — this is a fixed list, not a general 'developing country' category)",
+      "Admitted to, or in the process of applying for, an SI-approved Swedish master's programme",
+      "Prior professional work experience is required (recent guidance has cited a minimum around 3,000 hours) along with demonstrated leadership experience",
+      "Not already living in Sweden or holding Swedish/EU permanent residency, subject to some exceptions"
+    ],
+    "documents": [
+      "Application submitted through the official SI online portal, using the personal application number generated from your universityadmissions.se application",
+      "CV detailing work and leadership experience",
+      "Motivation/leadership essay",
+      "References as specified in the current guidelines"
+    ],
+    "applicationProcess": [
+      "First apply to an SI-approved master's programme via universityadmissions.se",
+      "Once you receive your personal application number, apply separately for the SI Scholarship through the official SI portal during its specific application window",
+      "Await the university admission decision and the separate SI scholarship decision"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "tags": ["Fixed List of Eligible Countries", "Work Experience Required", "Two-Step Application"],
+    "featured": true,
+    "faqs": [
+      { "question": "Is this open to applicants from any developing country?", "answer": "No — SISGP is restricted to citizens of a specific, named list of eligible countries published by the Swedish Institute, which changes periodically. You should check the current official list rather than assuming eligibility based on general development status." }
+    ]
+  },
+  {
+    "id": "s20",
+    "slug": "kth-scholarship-sweden",
+    "title": "KTH Scholarship (Tuition Fee Waiver for Non-EU/EEA Students)",
+    "university": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "countrySlug": "sweden",
+    "degree": ["Master"],
+    "funding": "Partially Funded",
+    "fundingDetails": [
+      { "label": "Tuition Fee Waiver", "covered": true },
+      { "label": "Monthly Stipend", "covered": false },
+      { "label": "Living Costs", "covered": false }
+    ],
+    "deadlineInfo": "The scholarship application deadline is generally aligned with KTH's master's admission deadline (recent cycles have used mid-January), but confirm the exact current date on KTH's own scholarship page rather than assuming it repeats every year.",
+    "duration": "1–2 years, matching the length of the master's programme",
+    "ieltsRequired": true,
+    "minIelts": 6.5,
+    "fieldsOfStudy": ["Most KTH master's programmes — some joint/exchange programmes such as Erasmus Mundus, EIT-affiliated tracks, and Computer Simulations for Science and Engineering are excluded"],
+    "overview": "The KTH Scholarship is a merit-based tuition fee waiver for non-EU/EEA students admitted to an eligible KTH Royal Institute of Technology master's programme. It requires submitting a separate scholarship application in addition to your programme application — it is not granted automatically to all admitted students. It covers tuition only; living costs, accommodation, and travel are not included, so applicants need separate funding for those expenses.",
+    "benefits": [
+      "Full tuition fee waiver for the programme's standard duration, provided academic progress remains satisfactory"
+    ],
+    "eligibility": [
+      "Required to pay tuition fees (generally non-EU/EEA/EFTA students)",
+      "Applied for an eligible KTH master's programme as your first priority on universityadmissions.se",
+      "Meet the admission requirements for that specific programme",
+      "Selection is competitive and based primarily on academic excellence — recent published figures suggest only a small percentage of eligible applicants are awarded the scholarship each year"
+    ],
+    "documents": [
+      "Standard master's programme application via universityadmissions.se",
+      "A separate KTH Scholarship application form, submitted in addition to your programme application"
+    ],
+    "applicationProcess": [
+      "Apply to an eligible KTH master's programme via universityadmissions.se, listing it as your first priority",
+      "Submit the separate KTH Scholarship application form by its specific deadline — this is a required extra step, not an automatic consideration",
+      "Scholarship results are announced after the general admission decisions"
+    ],
+    "timeline": [],
+    "officialWebsite": "https://www.kth.se/en/studies/master/admissions/scholarships/kth-scholarship-1.72827",
+    "tags": ["Requires Separate Scholarship Application", "Tuition Only — No Living Costs", "Merit-Based"],
+    "faqs": [
+      { "question": "Do I need to submit a separate scholarship application?", "answer": "Yes — unlike some tuition waivers that are considered automatically, the KTH Scholarship requires you to submit a separate application form in addition to your standard master's programme application." }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+import { SearchX } from "lucide-react";
+
+export default function EmptyState({
+  title = "No results found",
+  description = "Try adjusting your search or filters to find more scholarships.",
+}: {
+  title?: string;
+  description?: string;
+}) {
+  return (
+    <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-slate-200 bg-white px-6 py-16 text-center">
+      <div className="mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-primary-50">
+        <SearchX className="h-6 w-6 text-primary" aria-hidden="true" />
+      </div>
+      <h3 className="font-display text-lg font-semibold text-ink">{title}</h3>
+      <p className="mt-2 max-w-sm text-sm text-ink-muted">{description}</p>
+    </div>
+  );
+}

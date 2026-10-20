@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c1",
+    "slug": "japan",
+    "name": "Japan",
+    "flagEmoji": "🇯🇵",
+    "region": "Asia",
+    "description": "Japan combines cutting-edge research facilities with deep cultural heritage, offering fully funded government scholarships such as MEXT for students at every degree level.",
+    "totalScholarships": 2,
+    "popularUniversities": ["University of Tokyo", "Kyoto University", "Osaka University"],
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200&q=80"
+  },
+  {
+    "id": "c2",
+    "slug": "germany",
+    "name": "Germany",
+    "flagEmoji": "🇩🇪",
+    "region": "Europe",
+    "description": "Germany is home to tuition-free public universities and generous DAAD scholarships, making it one of the most affordable study destinations for international students.",
+    "totalScholarships": 2,
+    "popularUniversities": ["Technical University of Munich", "Heidelberg University", "RWTH Aachen"],
+    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1200&q=80"
+  },
+  {
+    "id": "c3",
+    "slug": "united-kingdom",
+    "name": "United Kingdom",
+    "flagEmoji": "🇬🇧",
+    "region": "Europe",
+    "description": "The UK hosts world-renowned institutions and flagship awards like Chevening, which fully fund one-year master's degrees for future global leaders.",
+    "totalScholarships": 2,
+    "popularUniversities": ["University of Oxford", "University of Cambridge", "Imperial College London"],
+    "heroImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1200&q=80"
+  },
+  {
+    "id": "c4",
+    "slug": "united-states",
+    "name": "United States",
+    "flagEmoji": "🇺🇸",
+    "region": "North America",
+    "description": "The United States offers prestigious fully funded programs such as the Fulbright Foreign Student Program across thousands of accredited universities.",
+    "totalScholarships": 2,
+    "popularUniversities": ["Harvard University", "Stanford University", "MIT"],
+    "heroImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1200&q=80"
+  },
+  {
+    "id": "c5",
+    "slug": "australia",
+    "name": "Australia",
+    "flagEmoji": "🇦🇺",
+    "region": "Oceania",
+    "description": "Australia Awards and university-specific scholarships give international students access to a high quality of life alongside globally ranked universities.",
+    "totalScholarships": 2,
+    "popularUniversities": ["University of Melbourne", "Australian National University", "University of Sydney"],
+    "heroImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=1200&q=80"
+  },
+  {
+    "id": "c6",
+    "slug": "south-korea",
+    "name": "South Korea",
+    "flagEmoji": "🇰🇷",
+    "region": "Asia",
+    "description": "South Korea's Global Korea Scholarship (KGSP) fully funds tuition, living costs, and Korean language training for undergraduate and graduate students.",
+    "totalScholarships": 2,
+    "popularUniversities": ["Seoul National University", "KAIST", "Yonsei University"],
+    "heroImage": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1200&q=80"
+  },
+  {
+    "id": "c7",
+    "slug": "canada",
+    "name": "Canada",
+    "flagEmoji": "🇨🇦",
+    "region": "North America",
+    "description": "Canada pairs a welcoming immigration pathway with elite doctoral funding like the Vanier Canada Graduate Scholarships.",
+    "totalScholarships": 2,
+    "popularUniversities": ["University of Toronto", "University of British Columbia", "McGill University"],
+    "heroImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1200&q=80"
+  },
+  {
+    "id": "c8",
+    "slug": "china",
+    "name": "China",
+    "flagEmoji": "🇨🇳",
+    "region": "Asia",
+    "description": "The Chinese Government Scholarship (CSC) opens the door to fast-growing universities with full tuition, housing, and stipend coverage.",
+    "totalScholarships": 2,
+    "popularUniversities": ["Tsinghua University", "Peking University", "Fudan University"],
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&q=80"
+  },
+  {
+    "id": "c9",
+    "slug": "netherlands",
+    "name": "Netherlands",
+    "flagEmoji": "🇳🇱",
+    "region": "Europe",
+    "description": "The Netherlands offers English-taught programs and targeted awards such as the Orange Tulip Scholarship for students from partner countries.",
+    "totalScholarships": 2,
+    "popularUniversities": ["Delft University of Technology", "University of Amsterdam", "Utrecht University"],
+    "heroImage": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=1200&q=80"
+  },
+  {
+    "id": "c10",
+    "slug": "sweden",
+    "name": "Sweden",
+    "flagEmoji": "🇸🇪",
+    "region": "Europe",
+    "description": "The Swedish Institute Scholarships for Global Professionals fund master's students committed to future leadership and sustainability.",
+    "totalScholarships": 2,
+    "popularUniversities": ["KTH Royal Institute of Technology", "Lund University", "Uppsala University"],
+    "heroImage": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=1200&q=80"
+  }
+]

@@ -1,0 +1,17 @@
+# ads.txt — required by Google AdSense once you're approved.
+#
+# After approval, AdSense will give you an exact line to paste here,
+# looking like this (with YOUR real publisher ID):
+#
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+#
+# Steps:
+# 1. Log in to your AdSense account
+# 2. Go to Sites (left menu) — you'll see a prompt with your exact ads.txt line
+# 3. Replace the placeholder line below with that exact text
+# 4. Redeploy the site — this file must be reachable at
+#    https://yourdomain.com/ads.txt (this "public/" folder makes that automatic)
+#
+# Until you've done this, leave the file as-is — an incorrect or missing
+# ads.txt can prevent ads from showing at full value, but does not break
+# your site.
