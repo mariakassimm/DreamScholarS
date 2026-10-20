@@ -4,7 +4,8 @@ Discover fully funded scholarships around the world — by country, degree level
 
 DreamScholar is a **frontend-only** Next.js 15 (App Router) application built with TypeScript, Tailwind CSS, and static JSON data. There is no backend, database, or authentication. The project builds to a **fully static export** (plain HTML/CSS/JS, no Node server required)
 ---
-
+Live Website: dreamscholars.vercel.app
+---
 ## 1. Tech Stack
 
 - **Next.js 15** (App Router), configured with `output: "export"` for static hosting
